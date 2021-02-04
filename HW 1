@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+    <title>Football Scoring 101</title>
+  </head>
+
+  <body>
+   <h1> Ways To Score </h1>
+   <ul> Touchdown </ul>
+   <ul>Field Goal </ul>
+   <ul>Safety </ul>
+   
+   <h2> Touchdown    </h2>
+	   <p>
+	      	<li> Worth 7 points </li>
+	   		<li> Scored by entering the endzone </li>
+			<li> Can be scored by running in or passing in </li>
+			<li> Most Common Method </li>
+			<li> Usually scored by offense, but can be achieved on defense after a interception or a fumble </li>
+			<li> <a href="https://en.wikipedia.org/wiki/Touchdown">More info</a> </li>
+	   </p>
+
+   <h2> Field Goal    </h2>
+	   <p>
+	 	   <li> Worth 3 points </li>
+	 	   <li> Scored by kicking the ball throught the uprights </li>
+		   <li> Only attempted if someone can't score a touchdown, or runs out of time </li>
+		   <li> Can only be achieved by the offense </li>
+		   <li> <a href="https://en.wikipedia.org/wiki/Field_goal">More info</a> </li>
+	   </p>
+   <h2> Safety    </h2>
+	   <p>
+	 	   <li> Worth 2 points </li>
+	 	   <li> Scored by tackling the opponent in their endzone </li>
+		   <li> Very rare </li>
+		   <li> Can only be acheived by the defense </li>
+		   <li> <a href="https://en.wikipedia.org/wiki/Safety_(gridiron_football_score)">More info</a> </li>
+	   </p>
+
+  </body>
+
+</html>
