@@ -1,15 +1,20 @@
-ul {color: black;
-	font-size:36;
-	font-family: arial;}
-body {color: navy;
-	background-color: lightsteelblue;
-	border-style: solid;
-	border-width: .5rem;
-	border-color: darkgrey;
-	border-margin: .5rem;
-}
-li {font-size: 12px;
-	font-family: sans-serif;}
+	ul {color: #F64C72;
+		font-size:72;
+		font-family: Georgia;}
+	a {color: #F64C72;}
+	body {color: white;
+		background-color: #2F2FA2;
+		border-style: solid;
+		border-width: .5rem;
+		border-color: white;
+		padding: 10px;}
+	li {font-size: 12px;
+		font-family: sans-serif;}
+	
+	body {color: #F64C72;
+		size:72;
+		font-family: Georgia;}
+
 
 
 
