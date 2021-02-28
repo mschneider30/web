@@ -1,19 +1,29 @@
-	ul {color: #F64C72;
-		font-size:72;
-		font-family: Georgia;}
-	a {color: #F64C72;}
+	a {color: #F64C72;
+		text-decoration: none;
+	padding-right: 90px;
+	text-align: center;}
 	body {color: white;
 		background-color: #2F2FA2;
 		border-style: solid;
 		border-width: .5rem;
 		border-color: white;
 		padding: 10px;}
-	li {font-size: 12px;
-		font-family: sans-serif;}
+	li {font-size: 30px;
+		font-family: georgia;
+		list-style-type: none;
+		padding: 10px;}
+	ul {font-size: 20px;}
 	
 	body {color: #F64C72;
 		size:72;
 		font-family: Georgia;}
+	nav { border-bottom: 3px solid white;
+		font-size: 30px;
+		font-family: Arial;
+		text-align: center;
+	}
+	h1 {font-size: 75px;}
+	img {height: 500px;}
 
 
 
